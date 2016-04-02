@@ -8,7 +8,7 @@
 		include 'error.php';
 		exit();
 	}
-	$success = 'Successfully connected to database';
+	//$success = 'Successfully connected to database';
 	include 'form.php';
 
  ?>

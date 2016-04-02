@@ -2,13 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Form</title>
+	<title>Document</title>
 </head>
 <body>
-
-	<form action="?" method="POST">
+	<form action="index.php" method="POST">
 		<input type="text" name="name">
-		<input type="submit" value="submit">
+		<input type="submit" value="Submit">
 	</form>
 </body>
 </html>
